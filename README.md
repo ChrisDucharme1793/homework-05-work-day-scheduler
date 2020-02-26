@@ -1,10 +1,10 @@
-<!--Fridge example is a great source for this homework-->
-<!--Fridge example is a great source for this homework-->
-<!--Fridge example is a great source for this homework-->
-<!--Fridge example is a great source for this homework-->
-<!--Fridge example is a great source for this homework-->
-<!--Fridge example is a great source for this homework-->
-<!--Fridge example is a great source for this homework-->
+GitHub Pages Link:
+https://chrisducharme1793.github.io/homework-05-work-day-scheduler/
+
+
+
+
+Homework instructions:
 
 
 # 05 Third-Party APIs: Work Day Scheduler
